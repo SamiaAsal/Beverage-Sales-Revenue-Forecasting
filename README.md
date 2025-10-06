@@ -1,4 +1,5 @@
 ##☕ Beverage Sales Revenue Optimization (DDR-Opt)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SamiaAsal/Beverage-Sales-Revenue-Forecasting/blob/main/Coffee.ipynb)
 
 🎯 Project Introduction and Business Value
 This is an End-to-End Data Science Capstone Project designed to transform raw beverage sales data into actionable strategic insights. The primary goal is to build a highly accurate predictive model to help management optimize pricing strategies and maximize revenue by truly understanding the factors that drive the value of each sales transaction.
